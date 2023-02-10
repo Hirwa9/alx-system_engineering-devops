@@ -1,2 +1,2 @@
 #!/bin/bash
-path=readlink -f /bin/bash-SOURCE:-/bin/bash echo The absolute path name for current working directory is  $path
+ls -la
